@@ -15,3 +15,7 @@ ShopNGo is a mobile-based online grocery shopping application developed with **F
 - Admin panel for managing products and orders via Firebase Firestore
 - User-friendly mobile interface built using Flutter
   
+## Group Members
+Surya Prakash
+Jesly James
+Bhuvaneshwar
